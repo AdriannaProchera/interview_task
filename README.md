@@ -16,5 +16,5 @@ The implementation include unit tests. Methods in SensorImplTest verify the corr
 
 How to run program:
 
-Go to : interview_task/target/classes/app
-And then run: java Main.class
+Go to : interview_task/target/classes
+And then run: java app.Main
